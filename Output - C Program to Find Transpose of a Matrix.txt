@@ -1,0 +1,25 @@
+Output
+
+Enter rows and columns of matrix: 2
+3
+
+Enter element of matrix:
+Enter element a11: 2
+Enter element a12: 3
+Enter element a13: 4
+Enter element a21: 5
+Enter element a22: 6
+Enter element a23: 4
+
+Entered Matrix: 
+2  3  4  
+
+5  6  4  
+
+
+Transpose of Matrix:
+2  5  
+
+3  6  
+
+4  4  
